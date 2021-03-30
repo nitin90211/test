@@ -39,6 +39,7 @@ class SecurityConfig extends WebSecurityConfigurerAdapter {
                 .permitAll()
                 .and()
                 .rememberMe();
+        //test comments
 //     
 	
 
