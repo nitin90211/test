@@ -16,6 +16,7 @@ public class Application extends SpringBootServletInitializer {
         SpringApplication.run(Application.class, args);
         System.out.println("Test");
         System.out.println("Changes in update 1");
+        System.out.println("In new test");
     }
 
     @Override
