@@ -20,6 +20,8 @@ public class Application extends SpringBootServletInitializer {
         System.out.println("Changes in update 1..2");
 
         System.out.println("In new test");
+        
+         System.out.println("In new test  ...");
 
     }
 
