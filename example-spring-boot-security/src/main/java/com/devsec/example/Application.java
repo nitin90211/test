@@ -24,6 +24,8 @@ public class Application extends SpringBootServletInitializer {
          System.out.println("In new test  ...");
          
          // comment added
+        
+        //new comment added
 
     }
 
